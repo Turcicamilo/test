@@ -1,0 +1,7 @@
+C:\Users\conrado.sasaud\source\repos\Aula do kelvin\Aula do kelvin\bin\Debug\Aula do kelvin.exe.config
+C:\Users\conrado.sasaud\source\repos\Aula do kelvin\Aula do kelvin\bin\Debug\Aula do kelvin.exe
+C:\Users\conrado.sasaud\source\repos\Aula do kelvin\Aula do kelvin\bin\Debug\Aula do kelvin.pdb
+C:\Users\conrado.sasaud\source\repos\Aula do kelvin\Aula do kelvin\obj\Debug\Aula do kelvin.csproj.AssemblyReference.cache
+C:\Users\conrado.sasaud\source\repos\Aula do kelvin\Aula do kelvin\obj\Debug\Aula do kelvin.csproj.CoreCompileInputs.cache
+C:\Users\conrado.sasaud\source\repos\Aula do kelvin\Aula do kelvin\obj\Debug\Aula do kelvin.exe
+C:\Users\conrado.sasaud\source\repos\Aula do kelvin\Aula do kelvin\obj\Debug\Aula do kelvin.pdb
